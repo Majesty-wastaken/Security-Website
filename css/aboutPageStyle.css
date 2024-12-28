@@ -302,6 +302,7 @@ footer .bottomFooter a{
 
     #navbar{
         position: relative;
+        padding: 10px 20px;
     }
 
     #navbar .menu{
