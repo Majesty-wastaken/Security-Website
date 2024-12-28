@@ -291,7 +291,7 @@ footer .bottomFooter a{
     #navbar .menu{
         display: block;
         position: absolute;
-        right: 50px;
+        right: 20px;
         align-self: center;
         padding: 10px;
         border-radius: 5px;
